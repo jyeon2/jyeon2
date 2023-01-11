@@ -1,4 +1,4 @@
-### Hi there 👋
+### 꾸준히 성장하는 개발자 양지현입니다 👋
 
 <!--
 **jyeon2/jyeon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
